@@ -2,7 +2,7 @@
 
 Feature preparation for the asthma diagnosis ML pipeline. Reads cleaned clinic data from PostgreSQL and produces a model-ready table.
 
-## What this lab covers
+## What this project covers
 
 - Missing-value analysis and imputation strategy
 - Encoding: **Label Encoding** (binary) and **One-Hot** (nominal, `drop_first=True`)
